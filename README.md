@@ -3,6 +3,10 @@
 The logos of MOBI lab, BEAST project, and GRACE project were created by 
 **Adam Vošmera** ([examples of Adam's work](https://www.stovkomat.cz/profil/vosmeraadam)).
 
+The folders in this repo contain **vector and raster versions** (for print and web), 
+as well as monochromatic versions with dark and light background.
+
+
 |Colors| Monochromatic|
 |------|--------------|
 |![MOBI](MOBI_logo/RGB/mobi-lab-logo-rgb.jpg)|![](MOBI_logo/RGB/mobi-lab-logo-black-rgb.jpg)|
