@@ -17,7 +17,7 @@ as well as monochromatic versions with dark and light background.
 
 In **all products and public communications** (papers, posters, presentations, articles) acknowledge the funding using the following: *Funded by the European Union (ERC, BEAST, 101044740). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.*
 
-**Beware:** If you co-author, or plan to co-author, a paper that is not open and publicly freely available, this is a problem and it may be against the rules of the ERC funding rules. In such case please contact Petr. 
+**Beware:** If you are a co-author, or plan to be a co-author, on a paper that is not open nor publicly freely available, then we may not be able to claim such output for the ERC project. In such case please contact Petr. 
 
 In **presentatinos** and **posters** display the European Union emblem and ERC logo together (applicable to all ERC funded projects). The logos area available in the `ERC_logo` folder above.
 
