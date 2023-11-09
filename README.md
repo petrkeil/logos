@@ -12,3 +12,13 @@ as well as monochromatic versions with dark and light background.
 |![MOBI](MOBI_logo/RGB/mobi-lab-logo-rgb.jpg)|![](MOBI_logo/RGB/mobi-lab-logo-black-rgb.jpg)|
 |![MOBI](BEAST_logo/RGB/beast-project-logo-rgb.jpg)|![](BEAST_logo/RGB/beast-project-logo-black-rgb.jpg)|
 |![GRACE](GRACE_logo/RGB/grace-project-logo-rgb.jpg)|![](GRACE_logo/RGB/grace-project-logo-black-rgb.jpg)|
+
+## If you are paid from the ERC BEAST project
+
+In **all products and public communications** (papers, posters, presentations, articles) acknowledge the funding using the following: *Funded by the European Union (ERC, BEAST, 101044740). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.*
+
+**Beware:** If you co-author, or plan to co-author, a paper that is not open and publicly freely available, this is a problem and it may be against the rules of the ERC funding rules. In such case please contact Petr. 
+
+In **presentatinos** and **posters** display the European Union emblem and ERC logo together (applicable to all ERC funded projects). The logos area available in the `ERC_logo` folder above.
+
+![ERC](ERC_logo/LOGO_ERC-FLAG_FP.png)
